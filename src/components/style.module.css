@@ -1,0 +1,13 @@
+.suurlahetystot{
+    background:#faccde ;
+    text-align: center;
+    position: absolute;
+    left: 0;
+    width:100%;
+    height: 100%;
+  
+    
+ }
+body{
+    background: linear-gradient(0.25turn,#ffa7c9 40%, #0f0708);
+};
