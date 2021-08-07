@@ -6,15 +6,9 @@ import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
 import Kauneimmatkirkot from "./components/kauneimmatkirkot";
 import Muutkohteet from "./components/muutkohteet";
 
-//creating style for the whole frontpage
-const useStyles = makeStyles({
-  root: {
-    backgroundColor: "#FFBAD2",
-  },
-});
 
 function App() {
-  const classes = useStyles();
+
 
   return (
     <Router>
